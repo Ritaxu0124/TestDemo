@@ -6,5 +6,6 @@ public class TestDemo {
         System.out.printf("hello git!");
         System.out.printf("hello git!");
         System.out.printf("hello git!");
+        System.out.printf("push test!");
     }
 }
